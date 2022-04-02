@@ -1,0 +1,8 @@
+#field {
+    display: flex;
+}
+.field {
+    border: black solid 1px;
+    height: 64px;
+    width: 64px;
+}
